@@ -85,9 +85,11 @@ print(value)
 
 ## Output:
 Selection sort
+
 ![ex9py1](https://user-images.githubusercontent.com/113497340/192195016-6558ebd0-0c6a-4d10-a2ff-23efe0a355a4.png)
 
 Insertion sort
+
 ![ex9py2](https://user-images.githubusercontent.com/113497340/192195059-4323b48e-b50f-424e-b214-fb9cedd01c92.png)
 
 
